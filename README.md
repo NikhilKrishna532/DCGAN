@@ -1,11 +1,5 @@
 # Synthetic Human Face Generation Using DCGAN
 
-### Team Members:
-- **P Nikhil Krishna**
-- **Jatin Chandra Seelam**
-- **Thaneesh Varma R** 
-- **Pranav Koulampet** 
-
 ## Project Overview
 
 This project aims to develop a model using **Deep Convolutional Generative Adversarial Networks (DCGAN)** to generate realistic human faces. GANs have transformed image generation by allowing for the creation of high-quality synthetic images that mimic real-world characteristics.
