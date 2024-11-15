@@ -64,6 +64,10 @@ The **primary goal** of our project was to train a DCGAN on a large dataset of h
 
 The generated images demonstrated initial success in synthetic face creation but revealed areas for improvement in achieving finer details and enhanced diversity. The project laid a foundation for exploring advanced architectures to improve realism and demographic representation in synthetic faces.
 
+
+
+![Real vs Fake](https://github.com/user-attachments/assets/3855284a-7a78-4ff9-816b-a5c9fa9ea9e4)
+
 ---
 
 ## Future Directions
