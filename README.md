@@ -66,7 +66,7 @@ The generated images demonstrated initial success in synthetic face creation but
 
 
 
-![Real vs Fake](https://github.com/user-attachments/assets/3855284a-7a78-4ff9-816b-a5c9fa9ea9e4)
+[Real vs Fake](https://github.com/user-attachments/assets/3855284a-7a78-4ff9-816b-a5c9fa9ea9e4)
 
 ---
 
